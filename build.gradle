@@ -16,8 +16,8 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
 
-group = ''
-version = '0.0.1'
+group = 'com.cloudant'
+version = '2.7.0'
 jar.baseName = 'lightblue-customer'
 sourceCompatibility = 1.8
 
